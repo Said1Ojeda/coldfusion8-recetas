@@ -1,4 +1,4 @@
-# coldfusion8-recetas
+# coldfusion-recetas
 
 Soluciones que me han funcionado en **ColdFusion 8** (sí, el de 2008) trabajando en un servidor donde no tengo acceso al ColdFusion Administrator y no puedo instalar nada.
 
